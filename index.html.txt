@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Welcome to Git Sample Project done by adi</h1>
+  <h1>Welcome to Git Sample Project done by adi and its really working</h1>
   <button onclick="sayHello()">Click Me</button>
 
   <script src="script.js"></script>
