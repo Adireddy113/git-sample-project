@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Git Sample Project</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Welcome to Git Sample Project</h1>
+  <button onclick="sayHello()">Click Me</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
